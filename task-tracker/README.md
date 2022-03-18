@@ -1,7 +1,7 @@
-#`Task Tracker APP`
+# Task Tracker APP
 This small project is built with react, react-hook, html, css and a JSON-server(mock backend).
 
-#`Usuage`
+## Usuage
 
 In the project directory, you can run:
 
